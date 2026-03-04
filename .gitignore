@@ -1,0 +1,15 @@
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+target/
+local.properties
+.env
+*.log
